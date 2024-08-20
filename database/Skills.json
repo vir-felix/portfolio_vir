@@ -1,0 +1,86 @@
+[
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "Next.js, Vercel",
+    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/icon-css.svg",
+    "title": "CSS",
+    "subtitle": "Animations, Sass",
+    "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience."
+  },
+  {
+    "icon": "IconOptimization",
+    "image": "/icon/icon-optimization.svg",
+    "title": "PageSpeed",
+    "subtitle": "Insights",
+    "description": "I specialize in enhancing website performance, ensuring fast loading times and efficient resource utilization for an optimal user experience."
+  },
+  {
+    "icon": "IconA11Y",
+    "image": "/icon/icon-a11y.svg",
+    "title": "A11Y",
+    "subtitle": "Web Accessibility",
+    "description": "Accessibility is a must. I ensure everyone can use what I create, focusing on keyboard navigation and screen reader compatibility."
+  },
+  {
+    "icon": "IconFigma",
+    "image": "/icon/icon-figma.svg",
+    "title": "Design",
+    "subtitle": "Figma & Photoshop",
+    "description": "While not a full-time UI designer, I have an eye for aesthetics, creating visually appealing and user-friendly interfaces."
+  },
+  {
+    "icon": "IconGSAP",
+    "image": "/icon/icon-gsap.svg",
+    "title": "GSAP",
+    "subtitle": "Scroll Animations",
+    "description": "I use GSAP for captivating animations that bring web pages to life, enhancing the overall user experience."
+  },
+  {
+    "icon": "IconDjango",
+    "image": "/icon/icon-django.svg",
+    "title": "Django",
+    "subtitle": "Pythonic, flexible, and scalable",
+    "description": "I build complex and dynamic web applications with a clean and structured codebase. "
+  },
+  {
+    "icon": "IconLaravel",
+    "image": "/icon/icon-laravel.svg",
+    "title": "Laravel",
+    "subtitle": "Model-View-Controller",
+    "description": "I develop an eCommerce platform using Laravel."
+  },
+  {
+    "icon": "IconNext",
+    "image": "/icon/icon-next.svg",
+    "title": "Next JS",
+    "subtitle": "Build fast, deploy faster",
+    "description": "I build fast, scalable, and SEO-friendly web applications using Next.JS."
+  },
+  {
+    "icon": "IconPython",
+    "image": "/icon/icon-python.svg",
+    "title": "Python",
+    "subtitle": "Template Engine",
+    "description": "I use python scripts to automate repetitive tasks."
+  },
+  {
+    "icon": "IconVue",
+    "image": "/icon/icon-vue.svg",
+    "title": "Vue JS",
+    "subtitle": "A Framework for Fast and Efficient Development",
+    "description": "I build complex web applications with robust front-end functionality, such as dynamic dashboards, responsive layouts, and interactive UI components."
+  },
+  {
+    "icon": "IconRails",
+    "image": "/icon/icon-rails.svg",
+    "title": "Ruby on Rails",
+    "subtitle": "Robust, Scalable, Maintainable",
+    "description": "I build online stores with shopping carts, payment gateways, and product management systems."
+  }
+]

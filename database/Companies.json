@@ -1,0 +1,51 @@
+[
+  {
+    "position": "Senior Full Stack Developer",
+    "company": "Koombea company, US",
+    "duration": "May 2022 - May 2024",
+    "location": "On-site",
+    "responsibilities": [
+      "Assisted in the development and maintenance of applications using Next.js and Django, gaining hands-on experience in full stack technologies.",
+      "Optimized database queries and improved application performance using efficient coding practices.",
+      "Designed and implemented scalable web applications using Next.js and Django, improving application performance by 30%."
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "eCommerce Developer",
+    "company": "Playmoweb company, French",
+    "duration": "March 2020 - September 2021",
+    "location": "Remote",
+    "responsibilities": [
+      "Led the development of eCommerce websites, implementing payment gateways and inventory management systems.",
+      "Developed and maintained eCommerce applications using Laravel and Ruby on Rails, focusing on user- centered design.",
+      "Spearheaded the migration of legacy systems to modern tech stacks, resulting in enhanced performance and maintainability.",
+      "Conducted A/B testing and analytics implementation to optimize user experiences and increase conversion rates."
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  },
+  {
+    "position": "Frontend Developer",
+    "company": "MyWebProgrammer company, US",
+    "duration": "March 2015 - October 2019",
+    "location": "On-site",
+    "responsibilities": [
+      "Utilized modern JavaScript frameworks such as React (or Angular/Vue) to build dynamic and interactive web applications, improving performance and scalability.",
+      "Collaborated with backend developers to design RESTful APIs and integrate frontend components.",
+      "Assisted in code reviews and partnered with QA teams to ensure software quality and reliability."
+    ],
+    "color": {
+      "h": "240",
+      "s": "100%",
+      "l": "45%"
+    }
+  }
+]

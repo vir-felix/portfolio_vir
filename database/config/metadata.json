@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "Earl",
+    "title": "Earl G Command - Front-End Developer",
+    "description": "I focus on user-friendly and responsible Front-end development and scalable and efficient Back-end system development.",
+    "timeZone": "America/Los_Angeles",
+    "locale": "en-US"
+  },
+  "personal": {
+    "name": "Earl",
+    "surname": "Command",
+    "role": "Full-Stack Engineer",
+    "experience": 10,
+    "email": "virfelix950105@gmail.com",
+    "phone": "+19148606292",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "username": "VirFelix",
+    "resumeURL": "https://drive.google.com/file/d/1oO_zPAoRutTQDgynLKXVgjQ3yLDcoSGP/view?usp=sharing"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/virfelixnet/",
+    "github": "https://github.com/vir-felix",
+    "codepen": "https://codepen.io/virfelixnet"
+  },
+  "content": {
+    "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"
+  }
+}
